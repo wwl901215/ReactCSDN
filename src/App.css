@@ -23,10 +23,15 @@
 }
 
 .App-li {
-  align-items: flex-start;
+  text-align: start;
   font-size: 1em;
   color: red;
-  justify-content: flex-start;
+}
+
+.App-p {
+  text-align: start;
+  padding-left: 2em;
+  font-size: 0.5em;
 }
 
 @keyframes App-logo-spin {
